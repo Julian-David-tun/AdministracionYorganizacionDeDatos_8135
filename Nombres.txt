@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Julian David Tun Ortiz - 8135
+=======
+Sergio Efrain Chuc Keb
+>>>>>>> 94c48a61d42067d50e71fb5d2abd11518db684ef
